@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I love to read manga
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="75"/>
 </div>
