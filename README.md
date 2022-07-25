@@ -6,4 +6,4 @@
 - 🎯 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to read manga
 
-<img align="left" alt="kunaltyagi9 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shanmugams425&show_icons=true&hide_border=true" />
+<iframe src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>
