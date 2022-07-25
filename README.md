@@ -6,4 +6,4 @@
 - 🎯 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to read manga
 
-<img align="left" alt="kunaltyagi9 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kunaltyagi9&show_icons=true&hide_border=true" />
+<img align="left" alt="kunaltyagi9 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shanmugams425&show_icons=true&hide_border=true" />
