@@ -8,9 +8,9 @@
 
 
 - 🔭 I’m a Full Stack Developer
-- 🌱 I’m currently learning everything 😂
+- 🌱 I enjoy learning new things 
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: Contribute more to open source projects
+- 📫 How to reach me shanmugams425@gmail.com 
 - ⚡ Fun fact: I love to read manga
 
 <h3 align="left">Languages and Tools:</h3>
